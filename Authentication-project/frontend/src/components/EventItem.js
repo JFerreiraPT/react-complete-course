@@ -1,17 +1,15 @@
 import { Link, useSubmit } from 'react-router-dom';
+
 import classes from './EventItem.module.css';
 
 function EventItem({ event }) {
-  //we can call actions programatically
   const submit = useSubmit();
 
   function startDeleteHandler() {
     const proceed = window.confirm('Are you sure?');
 
-    if(proceed) {
-      //the data we want to submit, the second parameter should be the action we want to trigger
-      //or other informtations, like method...
-      submit(null, {method: 'delete'})
+    if (proceed) {
+      submit(null, { method: 'delete' });
     }
   }
 

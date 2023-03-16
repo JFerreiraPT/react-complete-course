@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Changed action location 123","image":"https://www.hertie-school.org/fileadmin/_processed_/1/1/csm_Hertie_Events_3b17c74704.jpg","date":"2023-03-16","description":"Everything worked as espected","id":"67334f9a-a658-4414-8dce-125ab2a40e54"},{"title":"Another Event","image":"https://i0.wp.com/crmviet.vn/wp-content/uploads/2019/05/event-marketing.jpg?w=641&ssl=1","date":"2023-03-15","description":"Just another one","id":"f78c21ab-68f3-4c87-a2e2-847c788c622b"},{"title":"New event 2","image":"https://res.cloudinary.com/eventboost/image/upload/dpr_2.0,w_1425,q_auto:eco,f_auto/v1589895234/website/static/eventboost-home.jpg","date":"2023-12-15","description":"Another test","id":"507c5d7f-1588-4988-b817-a0205db0bbc2"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
